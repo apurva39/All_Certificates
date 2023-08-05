@@ -20,9 +20,7 @@
 ![UC-43a13e5b-abfa-4b68-9f36-e3487e992c11](https://github.com/apurva39/All_Certificates/assets/88641285/42ff87c6-3ce3-4dec-ae22-94d7d22f5b31)
 
 
-# WordPress Development
 
-![Uploading wordpress certificate_page-0001.jpg…]()
 
 
 
